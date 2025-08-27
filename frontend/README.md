@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ```
 Directory structure:
-└── Dhritiman1511-home-service-frontend/
+└── frontend
     ├── README.md
     ├── eslint.config.js
     ├── index.html
